@@ -1,0 +1,13 @@
+[{
+    "email": "jon.a@adappt.co.uk",
+    "password": "Polka123Polka",
+    "role": "admin"
+}, {
+    "email": "level1@example.com",
+    "password": "password",
+    "role": "level1"
+}, {
+    "email": "level2@example.com",
+    "password": "password",
+    "role": "level2"
+}]
