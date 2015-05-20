@@ -3,7 +3,7 @@
 
 /* Initialize casper */
 var casper = require("casper").create();
-var Url = casper.cli.get("url") || "http://staging548.curationcorp.com";
+var Url = casper.cli.args[0] || "http://staging548.curationcorp.com";
 var viewport = {
     width: 1280,
     height: 1024
